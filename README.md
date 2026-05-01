@@ -55,8 +55,8 @@
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd taskflow
+git clone https://github.com/vishalreddy20/taskflow-api.git
+cd taskflow-api
 ```
 
 ### 2. Backend setup
